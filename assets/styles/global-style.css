@@ -23,3 +23,11 @@
     width: 50%;
     padding: 10px;
 }
+
+#daimg {
+    float: left;
+}
+
+.lorem {
+    float: right;
+}
