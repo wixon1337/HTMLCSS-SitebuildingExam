@@ -31,3 +31,15 @@
 .lorem {
     float: right;
 }
+
+@media all and (max-width: 800px) {
+    .aDiv {
+        height: 300px;
+        width: 300px;
+    }
+
+    #daimg {
+        height: 50px;
+        width: 50px;
+    }
+}
